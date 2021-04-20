@@ -1,4 +1,3 @@
 # Undergraduate Graduation Project
-Multispectral Pedestrian Detection Project. 
-Undergraduate graduation project.
+## Traffic object detection with fusion enhancement of visible and thermal images 
 results will be available.
